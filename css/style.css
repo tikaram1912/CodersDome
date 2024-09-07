@@ -758,6 +758,18 @@ body {
         top: 5.8rem;
     }
 
+    .home{
+        min-height: 40vh;
+        width: 100vw;
+        margin-top: -3rem;
+        margin-bottom: -2rem;
+        top: -2rem;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        line-height: 6rem;
+    }
+    
     .home h1 {
         color: #fff;
         font-size: 4rem;
